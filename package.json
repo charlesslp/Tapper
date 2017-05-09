@@ -1,0 +1,12 @@
+{
+  "name": "Tapper",
+  "version": "1.0.0",
+  "description": "mítico juego de Tapper",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Carlos Martinez",
+  "license": "ISC"
+}
