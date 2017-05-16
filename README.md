@@ -10,3 +10,5 @@ Descripción detallada:
     · "game.js": Este .js es el encargado de ejecutar la lógica principal del juego, así como la carga de sprites y los diferentes atributos y métodos de los personajes y objetos.
 - "index.html": Este documento HTML simplemente se encarga de mostrar el canvas en el navegador
 - "intro.svg": Fondo de la página
+
+
